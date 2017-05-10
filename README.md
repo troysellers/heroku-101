@@ -182,6 +182,6 @@ Now, if for some reason yours isn't working as described and you really aren't t
 
 try clicking this button 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ibigfoot/heroku-101)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 
