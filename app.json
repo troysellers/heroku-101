@@ -1,17 +1,8 @@
 {
-  "name": "Heroku 201",
-  "description": "Attach your data services",
+  "name": "Heroku 101",
+  "description": "Simple Java application to get started with Heroku",
   "keywords": [
-    "java",
-    "data",
-    "postgres",
-    "connect",
-    "redis"
+    "java"
   ],
-  "website": "https://www.heroku.com",
-  "addons": [
-    "heroku-redis",
-    "heroku-postgresql",
-    "heroku-connect"
-  ]
+  "website": "https://www.heroku.com"
 }
