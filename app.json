@@ -1,0 +1,17 @@
+{
+  "name": "Heroku 201",
+  "description": "Attach your data services",
+  "keywords": [
+    "java",
+    "data",
+    "postgres",
+    "connect",
+    "redis"
+  ],
+  "website": "https://www.heroku.com",
+  "addons": [
+    "heroku-redis",
+    "heroku-postgresql",
+    "heroku-connect"
+  ]
+}
