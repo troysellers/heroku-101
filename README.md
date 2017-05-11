@@ -96,6 +96,12 @@ Now we can add files to our git repository and commit.
 > git commit -am "initial commit"
 ```
 
+If you are yet to authenticate to the Heroku CLI, lets do that first
+
+```
+> heroku login
+```
+
 Then, to create your Heroku application the command you need to get started is just one.. 
 ```
 > heroku create
