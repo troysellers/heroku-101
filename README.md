@@ -60,6 +60,7 @@ You should now have a skeleton Ninja Web framework..
 
 Now, to start in your local environment it is very simple
 ```
+> mvn clean package
 > mvn ninja:run
 ```
 
