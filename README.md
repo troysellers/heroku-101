@@ -176,6 +176,13 @@ Add a new plugin in the build phase (copys the jetty-runner jar into place for u
 
 ## Push Your App to Heroku
 
+So we need to commit our new changes
+
+```
+> git add .
+> git commit -am "add Heroku support"
+```
+
 Now the fun part, let's deploy your application to Heroku! 
 
 ```
