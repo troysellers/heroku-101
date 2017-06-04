@@ -1,0 +1,12 @@
+{
+  "name": "Heroku-101-node",
+  "description": "This application is the NodeJS version of the Heroku-101 hands on training",
+  "keywords": [
+    "hands on",
+    "NodeJS",
+    "Express"
+  ],
+  "website": "https://www.heroku.com",
+  "repository": "https://github.com/ibigfoot/heroku-101",
+  "success_url": "/"
+}
