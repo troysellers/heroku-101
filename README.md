@@ -1,4 +1,4 @@
-[Heroku 101](https://github.com/ibigfoot/heroku-101) | [Heroku 201](https://github.com/ibigfoot/heroku-201) | [Heroku 301](https://github.com/ibigfoot/heroku-301) | [Heroku 401](https://github.com/ibigfoot/heroku-401)
+[Heroku 101](https://github.com/ibigfoot/heroku-101) | [Heroku 201](https://github.com/ibigfoot/heroku-201/tree/java) | [Heroku 301](https://github.com/ibigfoot/heroku-301tree/java) | [Heroku 401](https://github.com/ibigfoot/heroku-401tree/java)
 
 # Heroku 101
 
