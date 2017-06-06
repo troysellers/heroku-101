@@ -6,7 +6,7 @@ Creating your first Node app on Heroku application is pretty simple, but you wil
 
 
 ## Prerequisites 
-So, for the code in this sample to work you will want to have [NodeJS](https://nodejs.org/en/download/) installed and running, my ode installed version is
+So, for the code in this sample to work you will want to have [NodeJS](https://nodejs.org/en/download/) installed and running, my node installed version is
 ```
 > node -v
 v7.10.0
