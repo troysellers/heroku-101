@@ -104,7 +104,7 @@ If you are yet to authenticate to the Heroku CLI, lets do that first
 
 Then, to create your Heroku application the command you need to get started is just one.. 
 ```
-> heroku create
+> heroku create -t korea-training
 ```
 
 Have a look at this output to get an idea of just what is happening..
