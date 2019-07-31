@@ -55,12 +55,11 @@ You should now have a skeleton Ninja Web framework..
 > cd heroku-101  #or whatever you called yours
 ```
 ```
-> mvn eclipse:eclipse
 ```
 
 Now, to start in your local environment it is very simple
 ```
-> mvn clean package
+> mvn package
 > mvn ninja:run
 ```
 
@@ -120,7 +119,7 @@ You should see that Heroku has added a git remote to your local codebase. You wi
 The [Procfile](https://devcenter.heroku.com/articles/procfile) is a specific type of file that tells Heroku what is the command it should run to start the application that has just been loaded. You can declare multiple process types (indeed we will in the 301 section!) but for now let's just declare a simple web process. Create a file named 'Procfile'
 
 ```
-> touch Procfile
+> touch Procfile  (OSX - Windows users use Notepad or something to create the file)
 ```
 
 And then add this one line to the file
